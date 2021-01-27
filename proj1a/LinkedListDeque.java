@@ -112,7 +112,6 @@ class LinkedListDeque<AnyType> {
         return ref.item;
     }
 
-
     public AnyType getRecursive(int index) {
         return helper(sentinel.next, index);
     }
