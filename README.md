@@ -1,2 +1,2 @@
 # cs61b
-# for self study only
+for self study only
